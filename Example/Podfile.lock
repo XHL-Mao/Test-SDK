@@ -1,0 +1,16 @@
+PODS:
+  - demoSDk (0.1.0)
+
+DEPENDENCIES:
+  - demoSDk (from `../`)
+
+EXTERNAL SOURCES:
+  demoSDk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  demoSDk: 493fd48ff4593fbc650b6871b321442c0d2c9076
+
+PODFILE CHECKSUM: a62930bcf2a6af1277cb7f4183c8e22b29dc8b35
+
+COCOAPODS: 1.10.1

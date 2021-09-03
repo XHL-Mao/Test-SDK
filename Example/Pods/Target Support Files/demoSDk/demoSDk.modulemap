@@ -1,0 +1,6 @@
+framework module demoSDk {
+  umbrella header "demoSDk-umbrella.h"
+
+  export *
+  module * { export * }
+}
